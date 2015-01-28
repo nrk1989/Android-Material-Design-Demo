@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="slide_menus">
+        <item>Recycler View</item>
+        <item>Card View</item>
+        <item>Palette</item>
+        <item>Vector Drawable</item>
+    </string-array>
+</resources>

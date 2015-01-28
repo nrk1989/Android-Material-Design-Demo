@@ -1,0 +1,17 @@
+
+<resources>
+   <!-- <color name="colorPrimary">#673AB7</color>
+    <color name="colorPrimaryDark">#512DA8</color>
+
+    <color name="colorSecondary">@color/material_deep_teal_200</color>
+    <color name="colorSecondaryDark">@color/material_deep_teal_500</color>-->
+
+    <color name="windowBackgroundColor">#FFC107</color>
+    <color name="black_translucent">#80000000</color>
+
+    <color name="primary">#673ab7</color>
+    <color name="primary_dark">#512da8</color>
+    <color name="accent">#ffc400</color>
+    <color name="text_primary">#D9FFFFFF</color>
+    <color name="text_secondary">#D9000000</color>
+</resources>
